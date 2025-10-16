@@ -60,16 +60,20 @@ I ship end‑to‑end systems that combine **LLM integrations**, **evals/guardra
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MV3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![WXT](https://img.shields.io/badge/WXT-000000?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Infrastructure & Tools:**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -80,6 +84,7 @@ I ship end‑to‑end systems that combine **LLM integrations**, **evals/guardra
 **AI & Voice:**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Cloud-F55036?style=flat-square)
 ![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-000000?style=flat-square)
 ![Fal.ai](https://img.shields.io/badge/Fal.ai-FF6B6B?style=flat-square)
@@ -94,7 +99,7 @@ Before Say, Pi, I spent years shipping in regulated and enterprise contexts:
 - **IBM Watson** — Multilingual NLP prototypes → hardened production services (incl. Arabic/Spanish); DevOps leadership, CI/CD automation; cloud migrations for enterprise clients.
 - **IBM Software Group** — From feature ownership to refactors of acquired SaaS; performance, security, maintainability.
 
-> Translation: I know how to have fun with new AI *and* pass the reliability sniff test.
+> **Bottom line:** I bring enterprise-grade reliability and operational excellence to cutting-edge AI innovation.
 
 ---
 
@@ -123,6 +128,8 @@ Before Say, Pi, I spent years shipping in regulated and enterprise contexts:
 - ✅ Active community & production demos
 
 ### 🚀 My edge:
+- **Big picture AI understanding** — strong grasp of the AI landscape, latest developments, and emerging trends
+- **Staying current** — continuously tracking and integrating cutting-edge AI/ML advancements
 - **Real‑time latency** & barge‑in UX that actually works
 - **Multilingual support** — voice that works globally
 - Solving the **"don't interrupt me"** problem — respectful AI that waits
@@ -133,38 +140,5 @@ Before Say, Pi, I spent years shipping in regulated and enterprise contexts:
 
 ---
 
-## Media (drop‑ins)
-Add your own assets in `/assets` and update these links:
-
-- ![Say, Pi demo](assets/saypi-demo.gif)
-- ![Call button UI](assets/saypi-call-button.png)
-- ![Waveform](assets/waveform.png)
-
-(Feel free to use content from your site or socials. Pro tip: also add a **social preview** image under repo Settings → Social preview.)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosscado&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosscado&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rosscado&theme=dark&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-### Now / Next
-- [x] Ship polite end‑of‑speech detection ("we wait for your last word")
-- [x] Cross‑provider failover for STT/LLM/TTS
-- [ ] Public demo repo: realtime‑voice‑agent‑demo
-- [ ] Video walkthrough: “Designing agentic listening”
-
----
-
-<sub>Bonus geek fact: I’ve compiled a weekly crossword for ~15 years. Pattern‑matching and clue‑writing pair nicely with prompts, turns out. 🧩</sub>
+<sub>Bonus geek fact: I've compiled a weekly crossword for ~15 years. Pattern‑matching and clue‑writing pair nicely with prompts, turns out. 🧩</sub>
 
