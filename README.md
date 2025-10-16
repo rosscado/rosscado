@@ -100,7 +100,10 @@ Before Say, Pi, I spent years shipping in regulated and enterprise contexts:
 
 ## Work style
 - **Ship small, ship often.** (weekly at minimum)
-- **Evals & guardrails** keep UX from regressing as models change.
+- **Tight feedback loops** — user engagement drives everything; iterate fast based on real usage.
+- **Build in public** — share early, gather feedback, improve continuously.
+- **TDD & evals** — test-driven development + guardrails keep UX from regressing as models change.
+- **Iterative development** — ship MVP, measure, refine, repeat.
 - **Privacy & reliability** are user‑visible features.
 - **Docs & observability** so teams move faster.
 - Motto: **Ship > cope.**
