@@ -1,10 +1,11 @@
 ```
-   _____             ____  _
-  / ___/___  ____   / __ \(_)__  __________
-  \__ \/ _ \/ __ \ / / / / / _ \/ ___/ ___/
- ___/ /  __/ / / // /_/ / /  __(__  |__  )
-/____/\___/_/ /_(_)____/_/\___/____/____/
-             voice + LLM that *listen*
+ ____                   ____  _
+/ ___|  __ _ _   _     |  _ \(_)
+\___ \ / _` | | | |    | |_) | |
+ ___) | (_| | |_| |    |  __/| |
+|____/ \__,_|\__, | ___|_|   |_|
+             |___/ |_____|
+        voice + LLM that *listen*
 ```
 
 <div align="center">
@@ -23,7 +24,7 @@
 
 **Founder of Say, Pi** · Applied AI Engineer · Long‑time shipper of reliable software
 
-🏆 **ElevenLabs grant recipient** · ⭐ **4.8★ Chrome Web Store** · 👥 **Thousands of active users**
+🏆 **New Frontiers entrepreneur** · ⭐ **4.9★ Chrome Web Store** · 👥 **Thousands of active users**
 
 I turn tricky human‑computer moments into smooth, _useful_ experiences — specializing in **real‑time voice AI**, **LLM orchestration**, and **production‑grade systems** that respect how humans actually communicate.
 
@@ -45,15 +46,6 @@ A consumer service that gives AI assistants a natural voice interface where peop
 
 > *Goal:* be the easiest way to add respectful, multilingual voice to any LLM surface.
 
-**Demos & repos**
-- `saypi-extension` — Natural voice for AI chat apps (hands‑free, multilingual).
-- `saypi-saas` — Web app + backend (subscriptions, real‑time voice endpoints).
-- `realtime-voice-agent-demo` — STT→LLM→TTS blueprint with guardrails & retries.
-- `whisper-fastapi-server` — Streaming STT microservice with auth & tracing.
-- `llm-evals-guardrails` — Tiny eval harness for prompts & regressions.
-
-> Some repos are private/being open‑sourced in parts. If you’re evaluating me, I’m happy to screen‑share architecture and code.
-
 ---
 
 ## Not just voice — I'm an **applied AI generalist**
@@ -65,16 +57,22 @@ I ship end‑to‑end systems that combine **LLM integrations**, **evals/guardra
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Infrastructure & Tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -84,8 +82,7 @@ I ship end‑to‑end systems that combine **LLM integrations**, **evals/guardra
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-000000?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![Fal.ai](https://img.shields.io/badge/Fal.ai-FF6B6B?style=flat-square)
 ![LLM Routing](https://img.shields.io/badge/LLM_Routing-4ECDC4?style=flat-square)
 
 ---
@@ -119,7 +116,7 @@ Before Say, Pi, I spent years shipping in regulated and enterprise contexts:
 
 ### 📈 Traction:
 - ✅ Active users with high retention & strong reviews
-- ✅ **ElevenLabs grant** recipient
+- ✅ **New Frontiers entrepreneur**
 - ✅ Active community & production demos
 
 ### 🚀 My edge:
